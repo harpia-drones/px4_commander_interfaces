@@ -1,0 +1,5 @@
+ # TakeoffAuto.srv
+float32 altitude_amsl
+---
+bool success
+string message 
